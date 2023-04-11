@@ -27,25 +27,26 @@ Voice Commands:
 - Cyber restart pc
 - Cyber lock screen pc
 
-Gesture recognition commands
+Gesture recognition commands:
+<br>
 - Control cursor
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/88047746/231148681-4b3930b0-5ea7-469f-9133-691c1ac87917.png"><br>
-
+<br>
 - Brightness/ Volume change (pinch from left hand with index finger and thumb vertically)
 - <img width="568" alt="image" src="https://user-images.githubusercontent.com/88047746/231148573-860c284d-51e3-40cc-b35d-0f03235fdc68.png"><br>
-
+<br>
 - Move file (close palm)
 <img width="330" alt="image" src="https://user-images.githubusercontent.com/88047746/231147880-a8948cf0-8ccb-464e-98af-edbd261eb26c.png"><br>
-
+<br>
 - Mouse left click (left finger)
 <img width="324" alt="image" src="https://user-images.githubusercontent.com/88047746/231149298-395dd944-dd25-44d1-8081-a1ab40cbaf03.png"><br>
-
+<br>
 - Mouse right click (right finger)
 <img width="327" alt="image" src="https://user-images.githubusercontent.com/88047746/231148371-8c0544ac-1007-4e81-a67a-b257f4f31de7.png"><br>
-
+<br>
 - Close / open folders (stick together index and middle finger)
 <img width="322" alt="image" src="https://user-images.githubusercontent.com/88047746/231148028-3a4a03ca-5d06-4c86-91e5-1cf1e2cacc02.png"><br>
-
+<br>
 - select and drag (close and move palm)
 
 
