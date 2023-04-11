@@ -29,7 +29,7 @@ Voice Commands:
 
 Gesture recognition commands:
 <br>
-- Control cursor
+- Control cursor<br>
 <img width="320" alt="image" src="https://user-images.githubusercontent.com/88047746/231148681-4b3930b0-5ea7-469f-9133-691c1ac87917.png"><br>
 <br>
 - Brightness/ Volume change (pinch from left hand with index finger and thumb vertically)
