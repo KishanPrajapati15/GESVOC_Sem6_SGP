@@ -29,12 +29,24 @@ Voice Commands:
 
 Gesture recognition commands
 - Control cursor
+<img width="320" alt="image" src="https://user-images.githubusercontent.com/88047746/231148681-4b3930b0-5ea7-469f-9133-691c1ac87917.png">
+
 - Brightness/ Volume change (pinch from left hand with index finger and thumb vertically)
+- <img width="568" alt="image" src="https://user-images.githubusercontent.com/88047746/231148573-860c284d-51e3-40cc-b35d-0f03235fdc68.png">
+
 - Move file (close palm)
+<img width="330" alt="image" src="https://user-images.githubusercontent.com/88047746/231147880-a8948cf0-8ccb-464e-98af-edbd261eb26c.png"
+
 - Mouse left click (left finger)
+<img width="324" alt="image" src="https://user-images.githubusercontent.com/88047746/231148198-5d1ccf55-2b50-4e94-8c1d-d4ce0276ef58.png">
+
 - Mouse right click (right finger)
+<img width="327" alt="image" src="https://user-images.githubusercontent.com/88047746/231148371-8c0544ac-1007-4e81-a67a-b257f4f31de7.png">
+
 - Close / open folders (stick together index and middle finger)
-- select and drag (palm)
+<img width="322" alt="image" src="https://user-images.githubusercontent.com/88047746/231148028-3a4a03ca-5d06-4c86-91e5-1cf1e2cacc02.png">
+
+- select and drag (close and move palm)
 
 
 
