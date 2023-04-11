@@ -10,6 +10,34 @@ The major Python libraries used for this project are:
 - cv2 (For object detection) <br>
 - Mediapipe (For hand gesture recognition) <br>
 
+Voice Commands:
+- Cyber wake up
+- Cyber bye
+- Cyber copy
+- Cyber paste
+- Cyber date
+- Cyber time
+- Cyber exit
+- Cyber find location
+- Cyber list files
+- Cyber launch gesture recognition
+- Cyber stop gesture recognition
+- Cyber search google
+- Cyber shutdown pc
+- Cyber restart pc
+- Cyber lock screen pc
+
+Gesture recognition commands
+- Control cursor
+- Brightness/ Volume change (pinch from left hand with index finger and thumb vertically)
+- Move file (close palm)
+- Mouse left click (left finger)
+- Mouse right click (right finger)
+- Close / open folders (stick together index and middle finger)
+- select and drag (palm)
+
+
+
 <br>
 <img src="https://user-images.githubusercontent.com/88047746/231143030-457eefb1-fec7-46de-b50f-1c333a73de4f.png" width="700px" height="400px"><br>
 <br>
