@@ -9,3 +9,13 @@ The major Python libraries used for this project are:
 - os (To perform OS level commands) <br>
 - cv2 (For object detection) <br>
 - Mediapipe (For hand gesture recognition) <br>
+
+![Screenshot (464)](https://user-images.githubusercontent.com/88047746/231143030-457eefb1-fec7-46de-b50f-1c333a73de4f.png)
+<img width="254" alt="Screenshot 2023-04-11 154849" src="https://user-images.githubusercontent.com/88047746/231143087-b86d8be8-e3c9-4ee2-93e7-34f0ffd6d82a.png">
+![Screenshot (466)](https://user-images.githubusercontent.com/88047746/231143139-2ef9a06e-6ed7-4036-80ad-42ac6c5bed6d.png)
+![Screenshot (467)](https://user-images.githubusercontent.com/88047746/231143201-d0015564-1784-4ea4-afe4-0fdb5d9ed383.png)
+![Screenshot (468)](https://user-images.githubusercontent.com/88047746/231143214-fe12c7da-4f1e-4606-be8f-17e3068c21a3.png)
+![Screenshot (469)](https://user-images.githubusercontent.com/88047746/231143226-f6bbe1e7-bb00-43a8-b33a-ffc6d9b3a0bb.png)
+![Screenshot (469)](https://user-images.githubusercontent.com/88047746/231143237-beae786b-302a-40d7-8045-704d9d0cae07.png)
+![Screenshot (469)](https://user-images.githubusercontent.com/88047746/231143252-54947f91-7887-4aa5-a84f-31738f6996c0.png)
+<img width="254" alt="Screenshot 2023-04-11 154849" src="https://user-images.githubusercontent.com/88047746/231143272-945d5ad4-2cc7-4ec8-b83d-952292c82ab5.png">
